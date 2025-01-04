@@ -526,9 +526,11 @@ packages:
   url_launcher_ios:
     dependency: transitive
     description:
-      path: "../../url_launcher_ios"
-      relative: true
-    source: path
+      path: "url_launcher/url_launcher_ios"
+      ref: main
+      resolved-ref: "1b7ef45411ae5f87b83ca50867eca644bad2f513"
+      url: "https://github.com/kechankrisna/flutter_packages.git"
+    source: git
     version: "6.3.0"
   url_launcher_linux:
     dependency: transitive

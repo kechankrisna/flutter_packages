@@ -351,7 +351,7 @@
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "../../url_launcher_ios",
+      "rootUri": "file:///Users/whitehat/.pub-cache/git/flutter_packages-1b7ef45411ae5f87b83ca50867eca644bad2f513/url_launcher/url_launcher_ios",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -434,7 +434,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-01-04T03:21:58.028880Z",
+  "generated": "2025-01-04T03:28:49.047105Z",
   "generator": "pub",
   "generatorVersion": "3.1.0"
 }
