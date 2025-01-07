@@ -1,0 +1,3 @@
+[submodule "flutter_flavorizr"]
+	path = flutter_flavorizr
+	url = https://github.com/AngeloAvv/flutter_flavorizr.git
